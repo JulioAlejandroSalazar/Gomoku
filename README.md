@@ -1,6 +1,6 @@
 ![Screenshot1](Images/Screenshots/Screenshot1.png)
 ![Screenshot2](Images/Screenshots/Screenshot2.png)
-![Screenshot3](Images/Screenshots/Screenshot3.png)
+![Screenshot4](Images/Screenshots/Screenshot4.png)
 
 # Clicks Per Second
 CPS app using Java Swing, it counts how many clicks you can do in 5 seconds, comes with a funny emoji reaction.
